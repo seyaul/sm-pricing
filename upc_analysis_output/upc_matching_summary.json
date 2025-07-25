@@ -1,0 +1,56 @@
+{
+  "ecrs_total": 32056,
+  "ecrs_valid_upcs": 32011,
+  "vendors": {
+    "HANA": {
+      "total_products": 3109,
+      "valid_upcs": 2857,
+      "exact_matches": 1992,
+      "almost_matches": {
+        "vendor_longer": 0,
+        "ecrs_longer": 6,
+        "total": 6
+      }
+    },
+    "KEHE": {
+      "total_products": 41693,
+      "valid_upcs": 41693,
+      "exact_matches": 9702,
+      "almost_matches": {
+        "vendor_longer": 0,
+        "ecrs_longer": 0,
+        "total": 0
+      }
+    },
+    "OSA": {
+      "total_products": 19,
+      "valid_upcs": 18,
+      "exact_matches": 9,
+      "almost_matches": {
+        "vendor_longer": 0,
+        "ecrs_longer": 0,
+        "total": 0
+      }
+    },
+    "RAINFOREST": {
+      "total_products": 4760,
+      "valid_upcs": 4732,
+      "exact_matches": 1252,
+      "almost_matches": {
+        "vendor_longer": 1,
+        "ecrs_longer": 0,
+        "total": 1
+      }
+    },
+    "UNFI": {
+      "total_products": 40327,
+      "valid_upcs": 38987,
+      "exact_matches": 117,
+      "almost_matches": {
+        "vendor_longer": 4,
+        "ecrs_longer": 1185,
+        "total": 1189
+      }
+    }
+  }
+}

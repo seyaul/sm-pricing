@@ -1,0 +1,84 @@
+{
+  "old_method": {
+    "total_matches": 13072,
+    "vendor_matches": {
+      "HANA": {
+        "vendor_upcs": 2857,
+        "matches": 1992,
+        "match_rate": 69.72348617430872
+      },
+      "KEHE": {
+        "vendor_upcs": 41693,
+        "matches": 9702,
+        "match_rate": 23.270093301033747
+      },
+      "OSA": {
+        "vendor_upcs": 18,
+        "matches": 9,
+        "match_rate": 50.0
+      },
+      "RAINFOREST": {
+        "vendor_upcs": 4732,
+        "matches": 1252,
+        "match_rate": 26.458157227387996
+      },
+      "UNFI": {
+        "vendor_upcs": 38987,
+        "matches": 117,
+        "match_rate": 0.3001000333444481
+      }
+    }
+  },
+  "new_method": {
+    "total_matches": 14894,
+    "vendor_matches": {
+      "HANA": {
+        "vendor_upcs": 2857,
+        "matches": 1996,
+        "match_rate": 69.86349317465873
+      },
+      "KEHE": {
+        "vendor_upcs": 41691,
+        "matches": 9703,
+        "match_rate": 23.273608212803722
+      },
+      "OSA": {
+        "vendor_upcs": 18,
+        "matches": 9,
+        "match_rate": 50.0
+      },
+      "RAINFOREST": {
+        "vendor_upcs": 4730,
+        "matches": 1252,
+        "match_rate": 26.469344608879492
+      },
+      "UNFI": {
+        "vendor_upcs": 38611,
+        "matches": 1934,
+        "match_rate": 5.00893527751159
+      }
+    }
+  },
+  "improvement": {
+    "HANA": {
+      "additional_matches": 4,
+      "improvement_rate": 0.2008032128514056
+    },
+    "KEHE": {
+      "additional_matches": 1,
+      "improvement_rate": 0.01030715316429602
+    },
+    "OSA": {
+      "additional_matches": 0,
+      "improvement_rate": 0.0
+    },
+    "RAINFOREST": {
+      "additional_matches": 0,
+      "improvement_rate": 0.0
+    },
+    "UNFI": {
+      "additional_matches": 1817,
+      "improvement_rate": 1552.991452991453
+    }
+  }
+}

@@ -1,0 +1,23 @@
+prior to optimization:
+🔗 Testing UPC Matching Logic
+==================================================
+📊 ECRS base dataset: 32,056 products
+🎯 HANA         → 1,993 matches (  6.2% of ECRS)
+     Match: 860000322966 → HALFDAY HAL TEA GRN HONEY GINSENG 12OZ
+     Match: 70734000102 → CELESTIAL SEASONINGS CELESTIAL SEASONINGS TEA HERB
+     Match: 24463061057 → HUY FONG FOODS HUY FONG CHILI GARLIC SAUCE
+🎯 KEHE         → 9,702 matches ( 30.3% of ECRS)
+     Match: 732913450848 → SEVENTH GENERATION SEV LIQ LNDRYSAGE+CEDAR 90FL
+     Match: 854426007484 → REGAL KING SALMON BEECH HOT SMOKED 4OZ
+     Match: 850000411357 → SERENITY KIDS SER SWT PTTO PRSNP CRRT 3.5OZ
+🎯 OSA          →    0 matches (  0.0% of ECRS)
+🎯 RAINFOREST   → 1,252 matches (  3.9% of ECRS)
+     Match: 19336100100 → ORGANIC VALLEY ORG GHEE ORG CLRFD BTTR 13OZ
+     Match: 854426007484 → REGAL KING SALMON BEECH HOT SMOKED 4OZ
+     Match: 818290011473 → CHOBANI CHO MADAGASCR VNLL CNNMN 5.3OZ
+🎯 UNFI         →  122 matches (  0.4% of ECRS)
+     Match: 4229 → DOLE BANANA BURRO
+     Match: 78354850183 → CABOT CAB VRMN SHRP CHDD CHS 8OZ
+     Match: 3486 → FOUR SEASONS CV  APPLE SUGAR BEE
+
+     
